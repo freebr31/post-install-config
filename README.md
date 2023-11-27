@@ -28,7 +28,7 @@ This tutorial outlines the creation of Agents, Departments and SLA's in the help
 <p>
 
 
-kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
 
 
 
@@ -38,7 +38,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 <img src="https://i.imgur.com/OSUYPM7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-kkkkkkkkkkkkkkkkkkkkkk
+
 
 
 
@@ -49,7 +49,7 @@ kkkkkkkkkkkkkkkkkkkkkk
 <img src="https://i.imgur.com/nvnfqbJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
 
 
 </p>
